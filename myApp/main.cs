@@ -2,6 +2,10 @@ class Program
 {
     static void Main(string[] args)
     {
+        #if DEBUG
+        args = new string[] { "3" };
+        #endif
+        
         if (args.Length > 0){
 
             List<string> strings;

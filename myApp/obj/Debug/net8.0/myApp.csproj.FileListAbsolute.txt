@@ -7,6 +7,7 @@ C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.Generat
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.AssemblyInfoInputs.cache
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.AssemblyInfo.cs
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.sourcelink.json
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.dll
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\refint\myApp.dll
 C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.pdb
