@@ -1,0 +1,15 @@
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\bin\Debug\net8.0\myApp.exe
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\bin\Debug\net8.0\myApp.deps.json
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\bin\Debug\net8.0\myApp.runtimeconfig.json
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\bin\Debug\net8.0\myApp.dll
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\bin\Debug\net8.0\myApp.pdb
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.AssemblyInfoInputs.cache
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.AssemblyInfo.cs
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.sourcelink.json
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.dll
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\refint\myApp.dll
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.pdb
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\myApp.genruntimeconfig.cache
+C:\Users\samfi\OneDrive\Desktop\WERK\Advent\myApp\obj\Debug\net8.0\ref\myApp.dll
